@@ -1,9 +1,13 @@
 # CRUDEstudiantes
 
 Nombre completo: Martín de Jesús Ramírez Rodríguez
+
 Carrera: Tecnologías de la Información y Comunicaciones
+
 Grupo:11:00 am
+
 Correo institucional:23151193@aguascalientes.tecnm.mx
+
 
 Esta página de CRUD empieza con una pantalla de login.
 
